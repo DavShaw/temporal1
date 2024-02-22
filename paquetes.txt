@@ -5,5 +5,5 @@ hyprland-git pavucontrol libdbusmenu-gtk3 plasma-browser-integration playerctl s
 webp-pixbuf-loader gtk-layer-shell gtksourceview3 gobject-introspection upower yad ydotool
 polkit-gnome gnome-keyring gnome-control-center blueberry networkmanager brightnessctl wlsunset gnome-bluetooth-3.0
 python-pywayland python-psutil hypridle-git hyprlock-git wlogout wl-clipboard hyprpicker-git anyrun-git
-adw-gtk3-git qt5ct qt5-wayland gradience-git fontconfig lexend-fonts-git ttf-jetbrains-mono-nerd ttf-material-symbols-variable-git ttf-space-mono-nerd fish foot starship
+adw-gtk3-git qt5ct qt5-wayland gradience-git lexend-fonts-git ttf-jetbrains-mono-nerd ttf-material-symbols-variable-git ttf-space-mono-nerd fish foot starship
 swappy wf-recorder grim tesseract tesseract-data-eng slurp python-pip
